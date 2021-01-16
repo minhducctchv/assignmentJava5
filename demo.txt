@@ -1,0 +1,6 @@
+controller - AbControllerDemo
+model - AbModelDemo
+view xml - AbDemoView
+xhtml AbDemoView
+
+
